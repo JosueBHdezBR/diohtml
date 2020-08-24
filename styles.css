@@ -1,6 +1,8 @@
 body{
     background: #f7f7f7;
     font-family: Verdana;
+    max-width: 1000px;
+    margin: auto;
 }
 a{
     text-decoration: line-through;
@@ -31,13 +33,17 @@ a{
     margin: 0;
     margin-bottom: 15px;
     text-transform: capitalize;
+    text-align: justify;
 }
 .postimage{
     margin-bottom: 15px;
+    width: 100%;
 }
 .foto{
     border: 1px solid #000;
     border-radius: 50%;
+    width: 50%;
+    height: 50%;
 }
 .lista{
     list-style-type: square;
