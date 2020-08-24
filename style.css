@@ -1,0 +1,18 @@
+body{
+    background: #ccc;
+}
+.title {
+    color: blue;    
+}
+.subtitle{
+    color: blue;
+}
+.posttitle{
+    color: blue;
+        font-size: 16px;
+        font-style: italic;
+    }
+.post{
+    background-color: #fff;
+    padding: 10px;
+    }
